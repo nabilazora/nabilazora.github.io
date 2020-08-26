@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.akhir {
+  padding: 30px 100px 0 100px;
+  color: #145374;
+}
+
+.isi {
+  background-color: #145374;
+  color: #f6f5f5;
+}
+
+.judul {
+  display: inline-block;
+  width: 30%;
+  margin-right: 4%;
+  padding: 30px 100px 0 100px;
+}
+
+.video {
+  margin-top: 4%;
+  padding: 0;
+}
+
+.header {
+  background-color: #e1e1e1;
+  color: #145374;
+  padding: 5px;
+  position: static;
+}
+
+.bawah {
+  background-color: #f6f5f5;
+  color: #145374;
+  padding: 5px;
+  position: relative;
+}
+
+.gambar {
+  margin-left: 100px;
+  src: "https://image.shutterstock.com/image-vector/zz-letter-logo-design-template-600w-1144706711.jpg";
+}
+
+.beranda {
+  color: #145374;
+  padding: 15px;
+  font-size: 1rem;
+  position: absolute;
+  right: 500px;
+  top: 25px;
+}
+
+.about {
+  color: #145374;
+  padding: 15px;
+  font-size: 1rem;
+  position: absolute;
+  right: 351px;
+  top: 25px;
+}
+
+.bantuan {
+  color: #145374;
+  padding: 15px;
+  font-size: 1rem;
+  position: absolute;
+  right: 235px;
+  top: 25px;
+}
